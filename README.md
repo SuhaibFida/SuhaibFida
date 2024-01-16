@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuhaibFida
 - 👀 I’m interested in Open Source
-- 🌱 I’m currently learning Ds algo
+- 🌱 I’m currently JAVA
 - 📫 How to reach me "Suhaibfida33@oulook.com"
 
 <!---
