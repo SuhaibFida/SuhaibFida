@@ -1,7 +1,7 @@
 
-- <img src="https://media.giphy.com/media/FNQXcSWWc0wI9jUPxD/giphy.gif" alt="vscode" width="25" height="25"  />Hi, I’m @SuhaibFida
-- 👀 I’m interested in Open Source
-- 🌱 I’m currently learning JAVA
+- <img src="https://media.giphy.com/media/FNQXcSWWc0wI9jUPxD/giphy.gif" alt="vscode" width="25" height="25"/> Hiii, I’m @SuhaibFida
+- <img src="https://media.giphy.com/media/gWkO9BspZ0o1P8P8Ik/giphy.gif" alt="vscode" width="25" height="25"/> I’m interested in Open Source
+- <img src="https://media.giphy.com/media/gWkO9BspZ0o1P8P8Ik/giphy.gif" alt="vscode" width="25" height="25"/> I’m currently learning JAVA
 - 📫 How to reach me "Suhaibfida33@oulook.com"
 - Tools i Have Used and Learned</h2>
 <p align="left">
