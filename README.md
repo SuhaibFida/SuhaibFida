@@ -1,7 +1,7 @@
 
- <img src="https://media.giphy.com/media/FNQXcSWWc0wI9jUPxD/giphy.gif" alt="emo" width="25" height="25"/> Hiii, I’m @SuhaibFida
+ <img src="https://media.giphy.com/media/FNQXcSWWc0wI9jUPxD/giphy.gif" alt="emo" width="30" height="30"/> Hiii, I’m @SuhaibFida
  
- <img src="https://media.giphy.com/media/klqFYuUe5aIwl269hw/giphy.gif" alt="j" width="25" height="25"/> I’m interested in Open Source & i’m currently learning JAVA
+ <img src="https://media.giphy.com/media/klqFYuUe5aIwl269hw/giphy.gif" alt="j" width="30" height="30"/> I’m interested in Open Source & i’m currently learning JAVA
  
  <img src="https://media.giphy.com/media/JmUBRJTqnCZ8F57oQr/giphy.gif" alt="j" width="25" height="25"/> How to reach me "Suhaibfida33@oulook.com"
  Tools i Have Used and Learned</h2>
