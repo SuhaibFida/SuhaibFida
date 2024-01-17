@@ -1,4 +1,4 @@
-<a href="https://www.pxpng.com/photo/88/killua-zoldyck-free-png-download">Killua Zoldyck FREE PNG DOWNLOAD alt="vscode" width="45" height="45"></a> 😶‍🌫️ Hi, I’m @SuhaibFida
+- 😶‍🌫️ Hi, I’m @SuhaibFida
 - 👀 I’m interested in Open Source
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me "Suhaibfida33@oulook.com"
