@@ -1,5 +1,5 @@
 
-- <img src="https://giphy.com/embed/FNQXcSWWc0wI9jUPxD" /> Hi, I’m @SuhaibFida
+- <img src="https://media.giphy.com/media/FNQXcSWWc0wI9jUPxD/giphy.gif" /> Hi, I’m @SuhaibFida
 - 👀 I’m interested in Open Source
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me "Suhaibfida33@oulook.com"
