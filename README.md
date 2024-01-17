@@ -1,6 +1,5 @@
 
-- ![MinionsGIF](https://github.com/SuhaibFida/SuhaibFida/assets/109733166/71b0cdf1-4c32-44d3-ab6a-7732bf673f76)
- Hi, I’m @SuhaibFida
+- <img src="https://media.giphy.com/media/FNQXcSWWc0wI9jUPxD/giphy.gif" alt="vscode" width="25" height="25"  />Hi, I’m @SuhaibFida
 - 👀 I’m interested in Open Source
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me "Suhaibfida33@oulook.com"
