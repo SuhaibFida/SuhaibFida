@@ -1,5 +1,5 @@
-<img src="https://www.kindpng.com/picc/m/35-351459_transparent-suzuya-juuzou-png-hunter-x-hunter-killua.png" alt="Transparent Suzuya Juuzou Png - Hunter X Hunter Killua Chibi, Png Download@kindpng.com" alt="vscode" width="45" height="45" >
-- 😶‍🌫️ Hi, I’m @SuhaibFida
+
+- <img src="https://giphy.com/embed/FNQXcSWWc0wI9jUPxD" /> Hi, I’m @SuhaibFida
 - 👀 I’m interested in Open Source
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me "Suhaibfida33@oulook.com"
