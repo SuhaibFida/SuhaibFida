@@ -1,4 +1,4 @@
-<h2>Intro.</h2>
+<h2>- Intro.</h2>
 
  <img src="https://media.giphy.com/media/FNQXcSWWc0wI9jUPxD/giphy.gif" alt="emo" width="32" height="32"/> Hiii, I’m @SuhaibFida
  
@@ -6,7 +6,7 @@
 
  <img src="https://media.giphy.com/media/JmUBRJTqnCZ8F57oQr/giphy.gif" alt="j" width="32" height="32"/> How to reach me "Suhaibfida33@oulook.com"
 
-<h2>Tools I Have Used and Learned</h2>
+<h2>- Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="jscript" width="45" height="45"/>
