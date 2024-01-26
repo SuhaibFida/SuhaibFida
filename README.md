@@ -1,6 +1,6 @@
 <h2>- Intro.</h2>
 
- <img src="https://media.giphy.com/media/FNQXcSWWc0wI9jUPxD/giphy.gif" alt="emo" width="32" height="32"/> Hiii, I’m @SuhaibFida
+ <img src="https://media.giphy.com/media/FNQXcSWWc0wI9jUPxD/giphy.gif" alt="emo" width="32" height="32"/> Hii, I’m @SuhaibFida
  
  <img src="https://media.giphy.com/media/klqFYuUe5aIwl269hw/giphy.gif" alt="j" width="32" height="32"/> I’m interested in Open Source & i’m currently learning JAVA
 
