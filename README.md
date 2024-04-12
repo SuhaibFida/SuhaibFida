@@ -18,5 +18,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="45" height="45" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  alt="sql" width="45" height="45"/>
-<img src="https://media.giphy.com/media/PRU4TqzdyLCHS/giphy.gif" alt="Computer man" style="width:45px;height:45px;">
 </p>
