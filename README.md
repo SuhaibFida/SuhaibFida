@@ -2,7 +2,7 @@
 
  <img src="https://media.giphy.com/media/FNQXcSWWc0wI9jUPxD/giphy.gif" alt="emo" width="32" height="32"/> Hii, I’m @SuhaibFida
  
- <img src="https://media.giphy.com/media/klqFYuUe5aIwl269hw/giphy.gif" alt="j" width="32" height="32"/> I’m interested in Open Source & i’m currently learning Web Dev
+ <img src="https://media.giphy.com/media/klqFYuUe5aIwl269hw/giphy.gif" alt="j" width="32" height="32"/> I’m interested in Open Source & i’m currently learning MERN stack.
 
  <img src="https://media.giphy.com/media/JmUBRJTqnCZ8F57oQr/giphy.gif" alt="j" width="32" height="32"/> How to reach me "Suhaibfida33@oulook.com"
 
